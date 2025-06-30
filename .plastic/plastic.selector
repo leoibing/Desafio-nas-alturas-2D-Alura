@@ -1,0 +1,4 @@
+repository "Desafio-nas-alturas-Ibing@Greg_Pessoal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
